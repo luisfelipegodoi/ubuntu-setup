@@ -1,2 +1,28 @@
-# ubuntu-setup
-A little list of steps and tricks I use in my S.O
+<p align="center">
+  <b>Ubuntu Setup</b> is my list of things, tips and tricks that I use always on 
+  start a new setup
+</p>
+
+## 🎯 Softwares
+
+-   [asdf](https://github.com/asdf-vm/asdf) & [Get Started](https://asdf-vm.com/#/core-manage-asdf)
+-   [postman](https://www.postman.com/)
+-   [tilix](https://gnunn1.github.io/tilix-web/)
+-   [vs code](https://code.visualstudio.com/)
+-   [intelliJ](https://www.jetbrains.com/pt-br/idea/)
+-   [wps](https://linux.wps.com/)
+-   [remmina](https://remmina.org/)
+-   [authy](https://authy.com/)
+## 💡 Pimp my workstation
+
+-   [oh-my-zsh](https://ohmyz.sh/)
+-   [fuzzy finder](https://github.com/junegunn/fzf)
+-   [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+-   [git diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+-   [git recent](https://github.com/paulirish/git-recent)
+-   [git open](https://github.com/paulirish/git-open)
+-   [git ql](https://github.com/filhodanuvem/gitql)
+
+## 👀 Tips and tricks
+
+Listed of tips and tricks used by perform or fix my system.
