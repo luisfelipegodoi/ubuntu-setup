@@ -13,6 +13,7 @@
 -   [wps](https://linux.wps.com/)
 -   [remmina](https://remmina.org/)
 -   [authy](https://authy.com/)
+-   [displaylink] (https://www.displaylink.com/downloads/ubuntu)
 ## 💡 Pimp my workstation
 
 -   [oh-my-zsh](https://ohmyz.sh/)
