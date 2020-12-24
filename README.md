@@ -18,6 +18,8 @@
 ## 💡 Pimp my workstation
 
 -   [oh-my-zsh](https://ohmyz.sh/)
+-   [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+-   [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 -   [fuzzy finder](https://github.com/junegunn/fzf)
 -   [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 -   [git diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
