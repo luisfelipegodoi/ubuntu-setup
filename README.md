@@ -9,6 +9,7 @@
 -   [postman](https://www.postman.com/)
 -   [tilix](https://gnunn1.github.io/tilix-web/)
 -   [vs code](https://code.visualstudio.com/)
+-   [docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-pt)
 -   [intelliJ](https://www.jetbrains.com/pt-br/idea/)
 -   [wps](https://linux.wps.com/)
 -   [remmina](https://remmina.org/)
