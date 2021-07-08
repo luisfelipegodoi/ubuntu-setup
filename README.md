@@ -15,6 +15,11 @@
 -   [remmina](https://remmina.org/)
 -   [authy](https://authy.com/)
 -   [displaylink](https://www.displaylink.com/downloads/ubuntu)
+-   [brave browser](https://brave.com/)
+-   [database manager](https://dbeaver.io/)
+-   [redis desktop manager](https://snapcraft.io/redis-desktop-manager)
+-   [discord](https://discord.com/)
+-   [slack](https://slack.com/intl/pt-br/)
 ## 💡 Pimp my workstation
 
 -   [oh-my-zsh](https://ohmyz.sh/)
