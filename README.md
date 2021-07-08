@@ -31,6 +31,7 @@
 -   [git recent](https://github.com/paulirish/git-recent)
 -   [git open](https://github.com/paulirish/git-open)
 -   [git ql](https://github.com/filhodanuvem/gitql)
+-   [dracula tilix theme](https://draculatheme.com/tilix)
 
 ## 👀 Tips and tricks
 
